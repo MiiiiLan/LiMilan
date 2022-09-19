@@ -17,5 +17,5 @@ OUTLINE:
 <br>  Calm -  contains images and descriptions of the sky that seems to be feeling calm and/or makes you feel 
 <br>  Sad -  contains images and descriptions of the sky that seems to be feeling sad and/or makes you feel sad
   
-WIREFRAME
+WIREFRAME:
 [LiMilan - 1stQtrProposal.pdf.pdf](https://github.com/MiiiiLan/LiMilan/files/9599528/LiMilan.-.1stQtrProposal.pdf.pdf)
