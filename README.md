@@ -4,7 +4,7 @@ TITLE:
 <br> Feel The Sky (temp)
 
 DESCRIPTION: 
-<br> How does the sky feel? How do you feel when you look at the sky? This website is about the sky and your's emotions. This is somewhat of a photo album and will all based on my opinion, and my perspective of the world. Each webpage will show a different emotion of the sky, with pictures, descriptions, and my interpretation. Though these are subject to change, the emotions I choose to portray are fear, anger, joy, neutral, calm, and sad. Besides the emotions I have chosen, I may also add in song recomendations that matches the feeling of the picture I use. 
+<br> How does the sky feel? How do you feel when you look at the sky? This website is about the sky and your's emotions. This is somewhat of a photo album and will all be based on my opinion, and my perspective of the world. Each webpage will show a different emotion of the sky, with pictures, descriptions, and my interpretation. Though these are subject to change, the emotions I choose to portray are fear, anger, joy, neutral, calm, and sad. Besides the emotions I have chosen, I may also add in song recommendations that match the feeling of the picture I use.
 
 OUTLINE:
 <br>  Homepage -  contains the description of the website, and the links to the different webpages of emotion 
