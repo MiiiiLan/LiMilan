@@ -1,8 +1,0 @@
-html, body {
-  margin: 15px;
-  margin-top: 25px;
-  background-image: url(images/light-blue-marble-tile.jpg)
-}
-h1 {
-  
-}
