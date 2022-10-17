@@ -7,16 +7,16 @@ body {
   background-attachment: fixed;
 }
 
-h1 {
+#home {
   text-align: center; text-decoration: overline underline;
 }
 
-p {    
+p, h2, h3 {    
   text-align: center;
 }
 
-h2 {
-  text-align: center;
+#calm {
+ftext-align: center;
 }
 
 img {
@@ -24,4 +24,12 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+#nav a {
+  text-decoration: none;
+  color: black;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
