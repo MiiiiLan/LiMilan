@@ -13,7 +13,6 @@ OUTLINE:
 <br>  Fear -  contains images and descriptions of the sky that seems to be feeling fear and/or makes you feel fear
 <br>  Anger -  contains images and descriptions of the sky that seems to be feeling anger and/or makes you feel anger
 <br>  Joy -  contains images and descriptions of the sky that seems to be feeling joy and/or makes you feel 
-<br>  Neutral -  contains images and descriptions of the sky that seems to be feeling neutral and/or makes you feel neutral
 <br>  Calm -  contains images and descriptions of the sky that seems to be feeling calm and/or makes you feel 
 <br>  Sad -  contains images and descriptions of the sky that seems to be feeling sad and/or makes you feel sad
   
