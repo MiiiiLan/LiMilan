@@ -1,80 +1,76 @@
 <!DOCTYPE>
 <html>
+
 <head>
   <title>Feel The Sky</title>
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width"> 
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta name="viewport" content="width=device-width">
+  <link href="style/style.css" rel="stylesheet" type="text/css" />
   <meta name="author" content="Angelica Milan">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="viewport" content="width=device-width"> 
   <meta name="revised" content="10/10/2022">
-  <link rel="icon" href="images\cloud.ico" type="image/ico">
+  <link rel="icon" href="style/images/cloud.ico" type="image/ico">
 
-
-</head> 
- 
+  <div class="header">
+    <h4 class="hheader"> 
+      <a href="index.html">
+          <img id="logo" 
+            src="homepage/images/cloud.jpg" 
+            title="Home"
+            alt="logo"/>
+        Feel The Sky 
+      </a> &emsp; &emsp; &emsp; 
+      <a href="index.html">Home</a> &emsp;
+      <a href="calm/calm.html">Calm</a> &emsp;
+      <a href="joy/joy.html">Joy</a> &emsp; 
+      <a>Sad</a> &emsp;
+      <a>Anxious</a> &emsp;
+    </h4>
+  </div>
+</head>
+  
 <body>
-  <h1 id="home"> Feel The Sky </h1>
-  <p> How does the sky feel? How do you feel when you look at the sky? <br> <br>
-  Without noticing it, sometimes our feelings can be affected by our surroundings. For example, one may feel at peace while walking around a park. Feeling the warm air's embrace and the cool breeze's kiss, the soft rays' beam as they peek behind the clouds, the trees' song as they dance to the wind's rhythm, and the vivid sky that accompanies you in your stroll. Basking in the clear, serene sky, one may feel relaxed. However, one may feel down at the sight of a dark and gloomy sky. A sky that's on the brink of pouring but not actually breaking, just like how one may be holding tears back, on the verge of spilling, desperately trying to keep it in. As the sky's tears fall, one's tears might pour out as well, feeling the sky's emotions as their own. <br> <br> This website is about the sky and your's emotions. A photo album based on my opinion, and my perspective of the world. Each webpage will show a different emotion of the sky, with
-pictures, descriptions, and my interpretation. </p>
+  <div class="home">
+    <h1> Feel The Sky </h1>
+    <p> How does the sky feel? How do you feel when you look at the sky? <br> <br>
+      Without noticing it, sometimes our feelings can be affected by our surroundings. For example, one may feel at
+      peace while walking around a park. Feeling the warm air's embrace and the cool breeze's kiss, the soft rays' beam
+      as they peek behind the clouds, the trees' song as they dance to the wind's rhythm, and the vivid sky that
+      accompanies you in your stroll. Basking in the clear, serene sky, one may feel relaxed. However, one may feel down
+      at the sight of a dark and gloomy sky. A sky that's on the brink of pouring but not actually breaking, just like
+      how one may be holding tears back, on the verge of spilling, desperately trying to keep it in. As the sky's tears
+      fall, one's tears might pour out as well, feeling the sky's emotions as their own. <br> <br> This website is a
+      photo album of the sky and your's emotion based on my perspective of the world. </p>
+  </div>
 
   <hr>
 
-  <div id="display">
-    <div id="c">
-      <h2>Calm</h2>
-        <a href = "b.calm.html"> <img
-        id="cp"
-        title = "Clear Sky, Clear Mind"
-        alt = "calm-sky.0"
-        src =
-        /> </a>
+  <div class="woo">
+    <div class="calm">
+      <a href="calm/calm.html" title="Calm" alt="calm">
+        <img id="c" src="homepage\images\IMG_6089.JPG" />
+      <div class="text"><h2> Calm </h2></div>      
+      </a>
     </div>
-    <div id="j">
-      <h2>Joy</h2>
-        <a href = "c.joy"> <img 
-        id="jp" 
-        title = "Sunkissed"
-        alt = "joy-sky.0"
-        src = 
-        /> </a> 
+
+    <div class="joy">
+      <a href="joy/joy.html" title="Joy" alt="joy"> 
+        <img id="j" src="homepage\images\IMG_8943.jpg" />
+      <div class="text"><h2> Joy </h2></div>     
+      </a>
     </div>
-    <div id="f">
-      <h2>Fear</h2>
-        <a href = "d.fear"> <img
-        id="fp"
-        title = "Close Your Eyes and Breathe"
-        alt = "fear-sky.0"
-        src = 
-        /> </a>
+
+    <div class="sad">
+      <img id="s" src="sad.jpg" alt="under maintenace" />
+      <div class="text"><h2> Sad </h2></div>      
     </div>
-    <div id="a">
-      <h2>Anger</h2>
-        <a href = "e.anger"> <img
-        id="ap"
-        title = "Deep Breaths"
-        alt = "anger-sky.0"
-        src = 
-        /> </a>
-    </div>
-    <div id="s">
-      <h2>Sadness</h2>
-        <a href = "f.sadness"> <img 
-        id="sp"
-        title = "I Can Do This"
-        alt = "sad-sky.0"
-        src = 
-        /> </a>
+
+    <div class="anxious">
+      <img id="a" src="anxious.jpg" alt="under maintenaince" />
+      <div class="text"><h2> Anxious </h2></div>      
     </div>
   </div>
 
-  <div id="nav">
-      <a href="#container"> &#129093; </a>
-  </div>
-  
-  
-  
 </body>
+</html>

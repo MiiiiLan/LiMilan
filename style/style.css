@@ -1,0 +1,101 @@
+html {
+  background-image: url(/style/images/Image001.jpg);
+  font-family: 'Dancing Script', cursive;  
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: -30;
+  overflow: auto;
+}
+
+.header {
+  padding: 0px 40px;
+  width: 100%;
+  height: 60px;
+  background: #808080;
+  color: #f1f1f1;
+  position: fixed;
+}
+
+#logo {
+  width: 18px;
+  height: 18px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 40px; 
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 13px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+hr {
+  width: 90%;
+}
+
+.home {
+  margin: 20px;
+  padding: 50px 50px 0;
+  text-align: center;
+}
+
+.calm, .joy, .sad, .anxious {
+  width: auto;
+  height: auto;
+  float: left;
+  margin: -5px 3px 60px;
+  border: 1px solid grey;
+  padding: 3px;
+  background-color: white;
+}
+
+#c, #j, #s, #a {
+  width: 250px;
+  height: 250px;
+  border: 1px dashed grey;
+  padding: 2px;
+}
+
+.woo {
+  margin: 0px auto;
+  width: 80%;
+}
+
+.ca, .cb, .cc {
+  width: auto;
+  height: auto;
+  border: 1px solid grey;
+  padding: 3px;
+  margin: 5px;
+  background-color: white;
+  float: left;
+}
+
+#c1, #c2, #c3 {
+  width: 350px;
+  height: 350px;
+  border: 1px dashed grey;
+  padding: 2px; 
+}
+
+.woo2 {
+  margin: 0px auto;
+  width: 54%;
+}
+
+.text {
+  text-align: center;
+}
