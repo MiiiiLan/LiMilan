@@ -5,7 +5,7 @@ html {
   background-size: cover;
   margin: -30;
   overflow: auto;
-}
+} /** for the overall code **/
 
 .header {
   padding: 0px 40px;
@@ -14,12 +14,12 @@ html {
   background: #808080;
   color: #f1f1f1;
   position: fixed;
-}
+} /** for the navigation bar **/
 
 #logo {
   width: 18px;
   height: 18px;
-}
+} /** for the logo on the nav bar **/
 
 h4 {
   font-size: 18px;
@@ -50,7 +50,7 @@ hr {
   margin: 20px;
   padding: 50px 50px 0;
   text-align: center;
-}
+} /** for the homepage and webpage text **/
 
 .calm, .joy, .sad, .anxious {
   width: auto;
@@ -60,19 +60,19 @@ hr {
   border: 1px solid grey;
   padding: 3px;
   background-color: white;
-}
+} /** for the container of the individual redirect links in the homepage **/
 
 #c, #j, #s, #a {
   width: 250px;
   height: 250px;
   border: 1px dashed grey;
   padding: 2px;
-}
+} /** for the images used in the homepage **/
 
 .woo {
   margin: 0px auto;
   width: 80%;
-}
+} /** for the container of the all redirect links in the homepage **/
 
 .a, .b, .c, .d {
   width: auto;
@@ -82,20 +82,20 @@ hr {
   margin: 5px;
   background-color: white;
   float: left;
-}
+} /** for the container of the images in the webpages **/
 
 #pic {
   width: 350px;
   height: 350px;
   border: 1px dashed grey;
   padding: 2px; 
-}
+} /** for the images used in the webpages **/
 
 .woo2 {
   margin: 0px auto;
   width: 54%;
-}
+} /** for the container all of the images in the webpages **/
 
 .text {
   text-align: center;
-}
+} /** for the title of the images in the webpages **/
