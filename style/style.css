@@ -74,7 +74,7 @@ hr {
   width: 80%;
 }
 
-.ca, .cb, .cc {
+.a, .b, .c, .d {
   width: auto;
   height: auto;
   border: 1px solid grey;
@@ -84,7 +84,7 @@ hr {
   float: left;
 }
 
-#c1, #c2, #c3 {
+#pic {
   width: 350px;
   height: 350px;
   border: 1px dashed grey;
