@@ -89,7 +89,14 @@ hr {
   height: 350px;
   border: 1px dashed grey;
   padding: 2px; 
+  cursor: pointer;
+  z-index: -1;
 } /** for the images used in the webpages **/
+
+#pic:hover {
+  opacity: 0.5;
+  z-index: -1;
+}
 
 .woo2 {
   margin: 0px auto;
@@ -99,3 +106,20 @@ hr {
 .text {
   text-align: center;
 } /** for the title of the images in the webpages **/
+
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin-top: 30%;
+}
+
+.song {
+  float: left;
+  text-align: center;
+  width: 350px;
+  background-color: white;
+  margin-top: -330px;
+  padding: 2px;
+}
